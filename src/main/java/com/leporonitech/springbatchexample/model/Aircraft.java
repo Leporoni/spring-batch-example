@@ -1,4 +1,4 @@
-package com.leporonitech.springbatchexample;
+package com.leporonitech.springbatchexample.model;
 
 import lombok.Getter;
 import lombok.Setter;
